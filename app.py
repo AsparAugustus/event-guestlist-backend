@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify, after_this_request
+from flask import Flask, request, jsonify
 from flask_cors import CORS
 import sqlite3
 
@@ -49,11 +49,6 @@ def get_guests():
 
         conn.close()
 
-        @after_this_request
-        def add_cache_control_header(response):
-            response.headers['Cache-Control'] = 'no-store'
-            return response
-
         return jsonify(guests)
     except sqlite3.Error as e:
         print("Error retrieving guests:", e)
@@ -89,37 +84,27 @@ def add_guest():
         ))
         conn.commit()
         conn.close()
-
-        @after_this_request
-        def add_cache_control_header(response):
-            response.headers['Cache-Control'] = 'no-store'
-            return response
-
         return jsonify({'message': 'Guest added successfully'}), 201
     except sqlite3.Error as e:
         print("Error adding guest:", e)
         return jsonify({'message': 'Error adding guest'}), 500
 
 
-@app.route('/guests/<email>', methods=['PUT'])
-def check_in_guest(email):
-    print(email)
+
+@app.route('/guests/<full_name>', methods=['PUT'])
+def check_in_guest(full_name):
+
+    print(full_name)
     try:
         conn = get_db_connection()
         cursor = conn.cursor()
         cursor.execute('''
             UPDATE guests
             SET checked_in = ?
-            WHERE email = ?
-        ''', (1, email))
+            WHERE full_name = ?
+        ''', (1, full_name))
         conn.commit()
         conn.close()
-
-        @after_this_request
-        def add_cache_control_header(response):
-            response.headers['Cache-Control'] = 'no-store'
-            return response
-
         return jsonify({'message': 'Guest check-in updated successfully'}), 200
     except sqlite3.Error as e:
         print("Error updating guest check-in:", e)
