@@ -14,9 +14,9 @@ def convert_xlsx_to_json(filename):
     # Iterate over each row in the DataFrame
     for index, row in df.iterrows():
         # Extract the relevant information from the row
-        full_name = row['Name']
-        email = row['Email']
-        company = row['Company']
+        full_name = str(row['Name']).strip()  # Strip trailing spaces from the name
+        email = str(row['Email']).strip()  # Strip trailing spaces from the email
+        company = str(row['Company']).strip()  # Strip trailing spaces from the company
         owner = row['Owner']
         invitee_type = row['Type of invitees']
 

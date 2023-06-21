@@ -26,14 +26,14 @@ def populate_guests_data():
 
     guestData = [
     {
-        "full_name": "Hamza Alali ",
+        "full_name": "Hamza Alali",
         "email": "alali415h@gmail.com",
         "company": "Mubadala Excellence Program",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Faris Al Zaabi ",
+        "full_name": "Faris Al Zaabi",
         "email": "alzaabi.faris@gmail.com",
         "company": "Mubadala Excellence Program",
         "mobile_number": None,
@@ -49,19 +49,19 @@ def populate_guests_data():
     {
         "full_name": "Saad Almarzooqi",
         "email": "Saad.almarzooqi@adpolice.gov.ae",
-        "company": "Abu Dhabi Police ",
+        "company": "Abu Dhabi Police",
         "mobile_number": None,
         "checked_in": 0
     },
     {
         "full_name": "Talib Alhinai",
         "email": "talib_alhinai@mckinsey.com",
-        "company": "Mickensy ",
+        "company": "Mickensy",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Ali Al Shimmari  ",
+        "full_name": "Ali Al Shimmari",
         "email": "Ali.AlShimmari@taqa.com",
         "company": "TAQA",
         "mobile_number": None,
@@ -82,7 +82,7 @@ def populate_guests_data():
         "checked_in": 0
     },
     {
-        "full_name": "Khaled AlZaabi ",
+        "full_name": "Khaled AlZaabi",
         "email": "Khaled.AlZaabi@taqa.com",
         "company": "TAQA",
         "mobile_number": None,
@@ -96,7 +96,7 @@ def populate_guests_data():
         "checked_in": 0
     },
     {
-        "full_name": "Maitha Hasan Al Shamsi  ",
+        "full_name": "Maitha Hasan Al Shamsi",
         "email": "maitha.alshamsi@aadc.ae",
         "company": "TAQA (AADC)",
         "mobile_number": None,
@@ -105,40 +105,40 @@ def populate_guests_data():
     {
         "full_name": "Nhayan AlDhaheri",
         "email": "Nhayan@gmail.com",
-        "company": "Emirates Youth Council ",
+        "company": "Emirates Youth Council",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Noora alhosani ",
+        "full_name": "Noora alhosani",
         "email": "Noora.Alhosani@etihadrail.ae",
-        "company": "Etihad Rail youth council ",
+        "company": "Etihad Rail youth council",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Rashed AlMansoori ",
+        "full_name": "Rashed AlMansoori",
         "email": "Rashed.AlMansoori@taqa.com",
         "company": "TAQA",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Tawadud Mohamed AlKatheeri ",
+        "full_name": "Tawadud Mohamed AlKatheeri",
         "email": "tawadud.alkatheeri@transco.ae",
         "company": "TAQA (TRANSCO)",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Nasir Hassan AlMazmi ",
+        "full_name": "Nasir Hassan AlMazmi",
         "email": None,
         "company": "UAEI Platform",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Sultan Suhail Al Mazrouei ",
+        "full_name": "Sultan Suhail Al Mazrouei",
         "email": None,
         "company": "UAEI Platform",
         "mobile_number": None,
@@ -152,42 +152,42 @@ def populate_guests_data():
         "checked_in": 0
     },
     {
-        "full_name": "Maher Chekir ",
+        "full_name": "Maher Chekir",
         "email": None,
         "company": "UAEI Platform",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Eisa Ahmed Al ali  ",
+        "full_name": "Eisa Ahmed Al ali",
         "email": None,
         "company": "UAEI Platform",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Saad Abdulla Hamoodi ",
+        "full_name": "Saad Abdulla Hamoodi",
         "email": None,
         "company": "MIC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Layla Saeed Al Nuwais ",
+        "full_name": "Layla Saeed Al Nuwais",
         "email": None,
         "company": "MIC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Mohamed Ghassan Al Khawaja ",
+        "full_name": "Mohamed Ghassan Al Khawaja",
         "email": None,
         "company": "MIC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Mohamed Jasem Al Sayegh ",
+        "full_name": "Mohamed Jasem Al Sayegh",
         "email": None,
         "company": "MIC",
         "mobile_number": None,
@@ -222,7 +222,7 @@ def populate_guests_data():
         "checked_in": 0
     },
     {
-        "full_name": "Ahmed Al Dhaheri \u00a0",
+        "full_name": "Ahmed Al Dhaheri",
         "email": None,
         "company": "MIC",
         "mobile_number": None,
@@ -257,35 +257,35 @@ def populate_guests_data():
         "checked_in": 0
     },
     {
-        "full_name": "Noura Alkaabi ",
+        "full_name": "Noura Alkaabi",
         "email": "nalkaabi@amanahealthcare.com",
         "company": "MH",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Khaled Ghaleb ",
-        "email": "GhalebK@ClevelandClinicAbuDhabi.ae; ",
+        "full_name": "Khaled Ghaleb",
+        "email": "GhalebK@ClevelandClinicAbuDhabi.ae;",
         "company": "MH",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Eissa Alhashmi ",
-        "email": "eissa.alhashmi@capitalhealth.ae; ",
+        "full_name": "Eissa Alhashmi",
+        "email": "eissa.alhashmi@capitalhealth.ae;",
         "company": "MH",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Nouf Taha Alajami ",
+        "full_name": "Nouf Taha Alajami",
         "email": "nalajami@mubadalahealth.ae",
         "company": "MH",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Shafaa Omar Salem Mohsin ",
+        "full_name": "Shafaa Omar Salem Mohsin",
         "email": "Almenhali shafaa.almenhali@danatalemarat.ae",
         "company": "MH",
         "mobile_number": None,
@@ -293,49 +293,49 @@ def populate_guests_data():
     },
     {
         "full_name": "Sara Alali",
-        "email": "sarah.al-ali@g42.ai ",
+        "email": "sarah.al-ali@g42.ai",
         "company": "MH",
         "mobile_number": None,
         "checked_in": 0
     },
     {
         "full_name": "Saed Al Jneibi",
-        "email": "saljneibi@mubadala.ae ",
+        "email": "saljneibi@mubadala.ae",
         "company": "MIC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
         "full_name": "Ahmed Al Romaithi",
-        "email": "ajalromaithi@mubadala.ae ",
+        "email": "ajalromaithi@mubadala.ae",
         "company": "MIC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
         "full_name": "Ahmed Saif",
-        "email": "afsaif@mubadala.ae ",
+        "email": "afsaif@mubadala.ae",
         "company": "MIC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
         "full_name": "Maitha Al Hammadi",
-        "email": "mtalhammadi@mubadala.ae ",
+        "email": "mtalhammadi@mubadala.ae",
         "company": "MIC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
         "full_name": "Reem Al Breiki",
-        "email": "ralbreiki@mubadala.ae ",
+        "email": "ralbreiki@mubadala.ae",
         "company": "MIC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
         "full_name": "Maha Al Ketbi",
-        "email": "makalketbi@mubadala.ae ",
+        "email": "makalketbi@mubadala.ae",
         "company": "MIC",
         "mobile_number": None,
         "checked_in": 0
@@ -343,28 +343,28 @@ def populate_guests_data():
     {
         "full_name": "Alreem Alhammdi",
         "email": "alreem.alhammadi@etihadrail.ae",
-        "company": "Etihad Rail ",
+        "company": "Etihad Rail",
         "mobile_number": None,
         "checked_in": 0
     },
     {
         "full_name": "Bashayer Almazrouei",
         "email": "bashayer.almazrouei@etihadrail.ae",
-        "company": "Etihad Rail ",
+        "company": "Etihad Rail",
         "mobile_number": None,
         "checked_in": 0
     },
     {
         "full_name": "Noura Albadi",
         "email": "noura.albadi@etihadrail.ae",
-        "company": "Etihad Rail ",
+        "company": "Etihad Rail",
         "mobile_number": None,
         "checked_in": 0
     },
     {
         "full_name": "Noora Alhosani",
         "email": "noora.alhosani@etihadrail.ae",
-        "company": "Etihad Rail ",
+        "company": "Etihad Rail",
         "mobile_number": None,
         "checked_in": 0
     },
@@ -376,7 +376,7 @@ def populate_guests_data():
         "checked_in": 0
     },
     {
-        "full_name": "Al Hanoof Al Mansoori ",
+        "full_name": "Al Hanoof Al Mansoori",
         "email": "alhalmansoori@hub71.com",
         "company": "HUB71",
         "mobile_number": None,
@@ -390,14 +390,14 @@ def populate_guests_data():
         "checked_in": 0
     },
     {
-        "full_name": "Dana Almadhi ",
+        "full_name": "Dana Almadhi",
         "email": "dalmadhi@hub71.com",
         "company": "HUB71",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Shamma Al Thehli ",
+        "full_name": "Shamma Al Thehli",
         "email": "sthehli@hub71.com",
         "company": "HUB71",
         "mobile_number": None,
@@ -406,82 +406,82 @@ def populate_guests_data():
     {
         "full_name": "Abdullah Abou Ali",
         "email": "aabouali@irena.org",
-        "company": "International Renewable Energy Agency ",
+        "company": "International Renewable Energy Agency",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Riccardo Toxiri ",
+        "full_name": "Riccardo Toxiri",
         "email": "RToxiri@irena.org",
-        "company": "International Renewable Energy Agency ",
+        "company": "International Renewable Energy Agency",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Mohamed Khalifa alowaid ",
+        "full_name": "Mohamed Khalifa alowaid",
         "email": "malowaid@adnoc.ae",
         "company": "ADNOC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Capt. Ahmed Mohamed Alsalmi ",
+        "full_name": "Capt. Ahmed Mohamed Alsalmi",
         "email": "amalsalmi@adnoc.ae",
         "company": "ADNOC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Capt. Osama Al Marashda ",
+        "full_name": "Capt. Osama Al Marashda",
         "email": "oalmarashda@adnoc.ae",
         "company": "ADNOC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Fatima Yousif Al Suwaidi ",
+        "full_name": "Fatima Yousif Al Suwaidi",
         "email": "fyalsuwaidi@adnoc.ae",
         "company": "ADNOC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Reem Abdulla Alkuwaiti ",
+        "full_name": "Reem Abdulla Alkuwaiti",
         "email": "raalkuwaiti@adnoc.ae",
         "company": "ADNOC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Azza Aljuwaied  ",
+        "full_name": "Azza Aljuwaied",
         "email": "azaljuwaied@microsoft.com",
-        "company": "Microsoft Youth Council ",
+        "company": "Microsoft Youth Council",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Jawahir Almaazmi ",
+        "full_name": "Jawahir Almaazmi",
         "email": "jalmaazmi@microsoft.com",
-        "company": "Microsoft Youth Council ",
+        "company": "Microsoft Youth Council",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Sondos Al Mehairbi\u00a0",
+        "full_name": "Sondos Al Mehairbi",
         "email": "sondos.almehairbi@maan.gov.ae",
         "company": "Ma'an",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Alshumoos Al Hosani\u00a0",
+        "full_name": "Alshumoos Al Hosani",
         "email": "alshumoos.alhosani@maan.gov.ae",
         "company": "Ma'an",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Salama Al Mazrouoi\u00a0",
+        "full_name": "Salama Al Mazrouoi",
         "email": "salama.almazrouei@maan.gov.ae",
         "company": "Ma'an",
         "mobile_number": None,
@@ -516,35 +516,35 @@ def populate_guests_data():
         "checked_in": 0
     },
     {
-        "full_name": "Amna AlBastaki ",
-        "email": "Amnalbastaki@outlook.com ",
-        "company": "Abu Dhabi Global Shapers ",
+        "full_name": "Amna AlBastaki",
+        "email": "Amnalbastaki@outlook.com",
+        "company": "Abu Dhabi Global Shapers",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Abdulla Aldhaheri ",
-        "email": "Abahshabeeb@gmail.com\u00a0 ",
-        "company": "Abu Dhabi Global Shapers ",
+        "full_name": "Abdulla Aldhaheri",
+        "email": "Abahshabeeb@gmail.com",
+        "company": "Abu Dhabi Global Shapers",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Malak Abdullah ",
-        "email": "Malak.thyab@outlook.com ",
-        "company": "Abu Dhabi Global Shapers ",
+        "full_name": "Malak Abdullah",
+        "email": "Malak.thyab@outlook.com",
+        "company": "Abu Dhabi Global Shapers",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Abdelqader Al Saqqaf ",
+        "full_name": "Abdelqader Al Saqqaf",
         "email": "Abedqader.alsaqqaf@cpc.com",
-        "company": "Abu Dhabi Global Shapers ",
+        "company": "Abu Dhabi Global Shapers",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Aida Al Yaaqoubi ",
+        "full_name": "Aida Al Yaaqoubi",
         "email": "aalyaaqoubi@yahsat.ae",
         "company": "Yahsat Youth Council",
         "mobile_number": None,
@@ -600,21 +600,21 @@ def populate_guests_data():
         "checked_in": 0
     },
     {
-        "full_name": "AlDana Alhashmi ",
+        "full_name": "AlDana Alhashmi",
         "email": "dalhashmi@aldar.com",
         "company": "Aldar",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Sarah Mohamed Ahmed Al Bakeri ",
+        "full_name": "Sarah Mohamed Ahmed Al Bakeri",
         "email": "salbakeri@tabreed.ae",
         "company": "Tabreed",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Fatima Aldhaheri ",
+        "full_name": "Fatima Aldhaheri",
         "email": "faldhaheri@tabreed.ae",
         "company": "Tabreed",
         "mobile_number": None,
@@ -628,21 +628,21 @@ def populate_guests_data():
         "checked_in": 0
     },
     {
-        "full_name": "Mazar Masud ",
+        "full_name": "Mazar Masud",
         "email": "mazar.masud@edelman.com",
         "company": "Edelman",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Eleanor O'Keeffe ",
+        "full_name": "Eleanor O'Keeffe",
         "email": "eleanor.okeeffe@edelman.com",
         "company": "Edelman",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Muhannad Salahi ",
+        "full_name": "Muhannad Salahi",
         "email": "muhannad.salahi@hkstrategies.com",
         "company": "Edelman",
         "mobile_number": None,
@@ -651,91 +651,91 @@ def populate_guests_data():
     {
         "full_name": "Jaafar Al Aydaroos \u2013 UAE Idustries",
         "email": None,
-        "company": "MIC ",
+        "company": "MIC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
         "full_name": "Khalifa Al Bishr \u2013 UAE Clusters",
         "email": None,
-        "company": "MIC ",
+        "company": "MIC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
         "full_name": "Nasir Al Maazmi \u2013 UAE Industries",
         "email": None,
-        "company": "MIC ",
+        "company": "MIC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
         "full_name": "Saeed Al Suwaidi \u2013 Traditional Infra.",
         "email": None,
-        "company": "MIC ",
+        "company": "MIC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
         "full_name": "Mohamed Al Mazroui \u2013 will confirm",
         "email": None,
-        "company": "MIC ",
+        "company": "MIC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
         "full_name": "Ahmed Al Sharhan \u2013 UAE Clusters",
         "email": None,
-        "company": "MIC ",
+        "company": "MIC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
         "full_name": "Maitha Al Hammadi \u2013 Real Estate",
         "email": None,
-        "company": "MIC ",
+        "company": "MIC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
         "full_name": "Ohoud Al Messabi \u2013 Employee Relations",
         "email": None,
-        "company": "MIC ",
+        "company": "MIC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
         "full_name": "Saba Hajaj \u2013 Talent Partner",
         "email": None,
-        "company": "MIC ",
+        "company": "MIC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
         "full_name": "Hamad Al Mheiri",
-        "email": "halmheiri@mubadala.ae ",
-        "company": "MIC ",
+        "email": "halmheiri@mubadala.ae",
+        "company": "MIC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
         "full_name": "Aysha Al Darmaki",
-        "email": "asaaldarmaki@mubadala.ae ",
-        "company": "MIC ",
+        "email": "asaaldarmaki@mubadala.ae",
+        "company": "MIC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
         "full_name": "Bashaer Al Ameri",
-        "email": "balameri@mubadala.ae ",
-        "company": "MIC ",
+        "email": "balameri@mubadala.ae",
+        "company": "MIC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
         "full_name": "Hamad Al Mansoori",
-        "email": "hjalmansoori@mubadala.ae ",
-        "company": "MIC ",
+        "email": "hjalmansoori@mubadala.ae",
+        "company": "MIC",
         "mobile_number": None,
         "checked_in": 0
     },
@@ -782,7 +782,7 @@ def populate_guests_data():
         "checked_in": 0
     },
     {
-        "full_name": "Muhra Jamal AlMulla ",
+        "full_name": "Muhra Jamal AlMulla",
         "email": "mjalmulla@mubadala.ae",
         "company": "MIC",
         "mobile_number": None,
@@ -860,7 +860,7 @@ def populate_guests_data():
     },
     {
         "full_name": "Dana Halwani",
-        "email": "Dana.Halwani@sorbonne.ae ",
+        "email": "Dana.Halwani@sorbonne.ae",
         "company": None,
         "mobile_number": None,
         "checked_in": 0
@@ -873,77 +873,77 @@ def populate_guests_data():
         "checked_in": 0
     },
     {
-        "full_name": "Abdulla Almir ",
+        "full_name": "Abdulla Almir",
         "email": "aalmir@mubadala.ae",
         "company": "MIC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Khalid Abdulhamid ",
+        "full_name": "Khalid Abdulhamid",
         "email": "kabdulhamid@mubadala.ae",
         "company": "MIC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Maitha AlHammadi ",
+        "full_name": "Maitha AlHammadi",
         "email": "mtalhammadi@mubadala.ae",
         "company": "MIC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Noora Al Kaabi ",
+        "full_name": "Noora Al Kaabi",
         "email": "nalkaabi@mubadala.ae",
         "company": "MIC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Sultan AlMazrouei ",
+        "full_name": "Sultan AlMazrouei",
         "email": "salmazrouee@mubadala.ae",
         "company": "MIC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Ignacio Reynna ",
+        "full_name": "Ignacio Reynna",
         "email": "ireyna@mubadala.ae",
         "company": "MIC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Nouf AlSuwaidi ",
+        "full_name": "Nouf AlSuwaidi",
         "email": "noalsuwaidi@mubadala.ae",
         "company": "MIC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Omar AlDhuhoori ",
+        "full_name": "Omar AlDhuhoori",
         "email": "oaldhuhoori@mubadala.ae",
         "company": "MIC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Omar Al Marzooqi ",
+        "full_name": "Omar Al Marzooqi",
         "email": "oalmarzooqi@mubadala.ae",
         "company": "MIC",
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Muneera Al Mansoori ",
+        "full_name": "Muneera Al Mansoori",
         "email": "muneera.almansoori@eca.gov.ae",
         "company": None,
         "mobile_number": None,
         "checked_in": 0
     },
     {
-        "full_name": "Hala Zainal ",
+        "full_name": "Hala Zainal",
         "email": "hala.zainal@eca.gov.ae",
         "company": None,
         "mobile_number": None,
