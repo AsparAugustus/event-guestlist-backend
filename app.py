@@ -60,9 +60,18 @@ def add_guest():
     try:
         guest = request.get_json()
 
-        print(guest)
         conn = get_db_connection()
         cursor = conn.cursor()
+
+        # Check if the guest with the same full_name already exists
+        cursor.execute('SELECT * FROM guests WHERE full_name = ?', (guest['full_name'],))
+        existing_guest = cursor.fetchone()
+
+        if existing_guest:
+            conn.close()
+            return jsonify({'message': 'Guest with the same full_name already exists'}), 409
+
+        # Insert the guest into the database
         cursor.execute('''
             INSERT INTO guests (full_name, email, company, mobile_number, checked_in)
             VALUES (?, ?, ?, ?, ?)
@@ -79,6 +88,7 @@ def add_guest():
     except sqlite3.Error as e:
         print("Error adding guest:", e)
         return jsonify({'message': 'Error adding guest'}), 500
+
 
 
 @app.route('/guests/<email>', methods=['PUT'])
