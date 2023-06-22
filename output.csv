@@ -1,0 +1,236 @@
+id,full_name,email,company,mobile_number,checked_in
+1,Hamza Alali,alali415h@gmail.com,Mubadala Excellence Program,,0
+2,Faris Al Zaabi,alzaabi.faris@gmail.com,Mubadala Excellence Program,,1
+3,Nouf Al Katheeri,k_nouf@yahoo.com,Social Media Influencer,,1
+4,Saad Almarzooqi,Saad.almarzooqi@adpolice.gov.ae,Abu Dhabi Police,,1
+5,Talib Alhinai,talib_alhinai@mckinsey.com,Mickensy,,1
+6,Ali Al Shimmari,Ali.AlShimmari@taqa.com,TAQA,,0
+7,Intesar Zenki,intesar.zenki@miral.ae,Miral,,1
+8,Khadija Al Hashimi,khadija.alhashmi@miral.ae,Miral,,1
+9,Khaled AlZaabi,Khaled.AlZaabi@taqa.com,TAQA,,1
+10,Khuzama Alseiari,Khuzama.Alseiari@taqa.com,TAQA,,1
+11,Maitha Hasan Al Shamsi,maitha.alshamsi@aadc.ae,TAQA (AADC),,1
+12,Nhayan AlDhaheri,Nhayan@gmail.com,Emirates Youth Council,,1
+13,Noora alhosani,Noora.Alhosani@etihadrail.ae,Etihad Rail youth council,,0
+14,Rashed AlMansoori,Rashed.AlMansoori@taqa.com,TAQA,,1
+15,Tawadud Mohamed AlKatheeri,tawadud.alkatheeri@transco.ae,TAQA (TRANSCO),,1
+16,Nasir Hassan AlMazmi,,UAEI Platform,,0
+17,Sultan Suhail Al Mazrouei,,UAEI Platform,,1
+18,Mohammed Bin Khalifa Al-Nahyan,,UAEI Platform,,1
+19,Maher Chekir,,UAEI Platform,,0
+20,Eisa Ahmed Al ali,,UAEI Platform,,1
+21,Saad Abdulla Hamoodi,,MIC,,0
+22,Layla Saeed Al Nuwais,,MIC,,0
+23,Mohamed Ghassan Al Khawaja,,MIC,,0
+24,Mohamed Jasem Al Sayegh,,MIC,,0
+25,Jasem Ali Al Teneiji,,MIC,,1
+26,Mariam Al Haddad,,MIC,,1
+27,Rand Alfraih,,MIC,,1
+28,Seeneen Al Bastaki,,MIC,,1
+29,Ahmed Al Dhaheri,,MIC,,0
+30,Abdulla Al Balooshi,,MIC,,0
+31,Charles De Souza,,MIC,,0
+32,Hend Al Nuaimi,,MIC,,0
+33,Julia Woiwood,,MIC,,0
+34,Noura Alkaabi,nalkaabi@amanahealthcare.com,MH,,1
+35,Khaled Ghaleb,GhalebK@ClevelandClinicAbuDhabi.ae;,MH,,1
+36,Eissa Alhashmi,eissa.alhashmi@capitalhealth.ae;,MH,,1
+37,Nouf Taha Alajami,nalajami@mubadalahealth.ae,MH,,1
+38,Shafaa Omar Salem Mohsin,Almenhali shafaa.almenhali@danatalemarat.ae,MH,,0
+39,Sara Alali,sarah.al-ali@g42.ai,MH,,1
+40,Saed Al Jneibi,saljneibi@mubadala.ae,MIC,,1
+41,Ahmed Al Romaithi,ajalromaithi@mubadala.ae,MIC,,1
+42,Ahmed Saif,afsaif@mubadala.ae,MIC,,0
+43,Maitha Al Hammadi,mtalhammadi@mubadala.ae,MIC,,0
+44,Reem Al Breiki,ralbreiki@mubadala.ae,MIC,,0
+45,Maha Al Ketbi,makalketbi@mubadala.ae,MIC,,0
+46,Alreem Alhammdi,alreem.alhammadi@etihadrail.ae,Etihad Rail,,1
+47,Bashayer Almazrouei,bashayer.almazrouei@etihadrail.ae,Etihad Rail,,1
+48,Noura Albadi,noura.albadi@etihadrail.ae,Etihad Rail,,1
+49,Noora Alhosani,noora.alhosani@etihadrail.ae,Etihad Rail,,0
+50,Helen Bachir,hebachir@hub71.com,HUB71,,0
+51,Al Hanoof Al Mansoori,alhalmansoori@hub71.com,HUB71,,1
+52,Zahra Alhosani,zalhosani@hub71.com,HUB71,,1
+53,Dana Almadhi,dalmadhi@hub71.com,HUB71,,1
+54,Shamma Al Thehli,sthehli@hub71.com,HUB71,,1
+55,Abdullah Abou Ali,aabouali@irena.org,International Renewable Energy Agency,,1
+56,Riccardo Toxiri,RToxiri@irena.org,International Renewable Energy Agency,,1
+57,Mohamed Khalifa alowaid,malowaid@adnoc.ae,ADNOC,,0
+58,Capt. Ahmed Mohamed Alsalmi,amalsalmi@adnoc.ae,ADNOC,,1
+59,Capt. Osama Al Marashda,oalmarashda@adnoc.ae,ADNOC,,1
+60,Fatima Yousif Al Suwaidi,fyalsuwaidi@adnoc.ae,ADNOC,,0
+61,Reem Abdulla Alkuwaiti,raalkuwaiti@adnoc.ae,ADNOC,,1
+62,Azza Aljuwaied,azaljuwaied@microsoft.com,Microsoft Youth Council,,0
+63,Jawahir Almaazmi,jalmaazmi@microsoft.com,Microsoft Youth Council,,1
+64,Sondos Al Mehairbi,sondos.almehairbi@maan.gov.ae,Ma'an,,1
+65,Alshumoos Al Hosani,alshumoos.alhosani@maan.gov.ae,Ma'an,,0
+66,Salama Al Mazrouoi,salama.almazrouei@maan.gov.ae,Ma'an,,1
+67,Mohamed Helal Balooshi,Mohamed.alBalooshi@addcd.gov.ae,DCD,,1
+68,Salama Amer Alameri,Salama.Alameri@addcd.gov.ae,DCD,,1
+69,Saeed Abdulla Bahareth,Saeed.Bahareth@addcd.gov.ae,DCD,,1
+70,Mariam Adel Al Rabeea,mariam.alrabeea@addcd.gov.ae,DCD,,1
+71,Amna AlBastaki,Amnalbastaki@outlook.com,Abu Dhabi Global Shapers,,1
+72,Abdulla Aldhaheri,Abahshabeeb@gmail.com,Abu Dhabi Global Shapers,,1
+73,Malak Abdullah,Malak.thyab@outlook.com,Abu Dhabi Global Shapers,,1
+74,Abdelqader Al Saqqaf,Abedqader.alsaqqaf@cpc.com,Abu Dhabi Global Shapers,,0
+75,Aida Al Yaaqoubi,aalyaaqoubi@yahsat.ae,Yahsat Youth Council,,1
+76,Abdulrahman Al Zarooni,aalzarooni@yahsat.ae,Yahsat Youth Council,,0
+77,Maryam Al Hashmi,malhashmi@yahsat.ae,Yahsat Youth Council,,1
+78,Marwa Al Hosani,malhosani@yahsat.ae,Yahsat Youth Council,,1
+79,Iman Abdulla,iabdulla@yahsat.ae,Yahsat Youth Council,,1
+80,Ziad Ahmad Mahafza,zmahafza@mubadala.ae,MIC,,1
+81,Sara Alkatheeri,ssalkatheeri@aldar.com,Aldar,,1
+82,Sara Al Satrawi,salsatrawi@aldar.com,Aldar,,1
+83,AlDana Alhashmi,dalhashmi@aldar.com,Aldar,,1
+84,Sarah Mohamed Ahmed Al Bakeri,salbakeri@tabreed.ae,Tabreed,,0
+85,Fatima Aldhaheri,faldhaheri@tabreed.ae,Tabreed,,1
+86,Sara Mousa,sara.mousa@edelman.com,Edelman,,1
+87,Mazar Masud,mazar.masud@edelman.com,Edelman,,0
+88,Eleanor O'Keeffe,eleanor.okeeffe@edelman.com,Edelman,,1
+89,Muhannad Salahi,muhannad.salahi@hkstrategies.com,Edelman,,0
+90,Jaafar Al Aydaroos – UAE Idustries,,MIC,,0
+91,Khalifa Al Bishr – UAE Clusters,,MIC,,1
+92,Nasir Al Maazmi – UAE Industries,,MIC,,0
+93,Saeed Al Suwaidi – Traditional Infra.,,MIC,,0
+94,Mohamed Al Mazroui – will confirm,,MIC,,1
+95,Ahmed Al Sharhan – UAE Clusters,,MIC,,0
+96,Maitha Al Hammadi – Real Estate,,MIC,,0
+97,Ohoud Al Messabi – Employee Relations,,MIC,,1
+98,Saba Hajaj – Talent Partner,,MIC,,0
+99,Hamad Al Mheiri,halmheiri@mubadala.ae,MIC,,0
+100,Aysha Al Darmaki,asaaldarmaki@mubadala.ae,MIC,,1
+101,Bashaer Al Ameri,balameri@mubadala.ae,MIC,,0
+102,Hamad Al Mansoori,hjalmansoori@mubadala.ae,MIC,,0
+103,Ahmed Al Haddad,aalhaddad@ega.ae,EGA,,1
+104,Amal Al Sayegh,amalsayegh@ega.ae,EGA,,1
+105,Rawan Al Qadi,raalqadi@ega.ae,EGA,,1
+106,Khadija Al Abbasi,khabbasi@ega.ae,EGA,,1
+107,Abdulaziz Al Bannai,aalbannai@ega.ae,EGA,,1
+108,Reem Al Hammadi,ralhammadi@ega.ae,EGA,,1
+109,Muhra Jamal AlMulla,mjalmulla@mubadala.ae,MIC,,0
+110,Mariyam Habib Al Sayegh,maalsayegh@mubadala.ae,MIC,,0
+111,Sara Saeed Rashed Alzaabi,,ADQ,,1
+112,Mariam Alkhoori,,ADQ,,1
+113,Shamma Alriyami,,ADQ,,1
+114,Salem Alderei,,ADQ,,1
+115,Monira Saleh Elhabil,,AD Police,,0
+116,Hamdah Mohamed Elzarouny,,AD Police,,1
+117,Mytha Ayoub Mohamed,,AD Police,,0
+118,Alaa AL HANAFI,a00020718@Sorbonne.ae,,,1
+119,Ali ALHADDAD,a00022475@Sorbonne.ae,,,0
+120,Dana Halwani,Dana.Halwani@sorbonne.ae,,,1
+121,Soraya Bourhany,Soraya.Bourhany@sorbonne.ae,,,0
+122,Abdulla Almir,aalmir@mubadala.ae,MIC,,1
+123,Khalid Abdulhamid,kabdulhamid@mubadala.ae,MIC,,0
+124,Maitha AlHammadi,mtalhammadi@mubadala.ae,MIC,,0
+125,Noora Al Kaabi,nalkaabi@mubadala.ae,MIC,,0
+126,Sultan AlMazrouei,salmazrouee@mubadala.ae,MIC,,0
+127,Ignacio Reynna,ireyna@mubadala.ae,MIC,,0
+128,Nouf AlSuwaidi,noalsuwaidi@mubadala.ae,MIC,,1
+129,Omar AlDhuhoori,oaldhuhoori@mubadala.ae,MIC,,1
+130,Omar Al Marzooqi,oalmarzooqi@mubadala.ae,MIC,,0
+131,Muneera Al Mansoori,muneera.almansoori@eca.gov.ae,,,0
+132,Hala Zainal,hala.zainal@eca.gov.ae,,,1
+133,Yaser,yalmousawi@sanad.ae,Sanad,0557000575,1
+134,Maitha,h.maitha.omar@gmail.com,NMA,0501035550,1
+135,Hamed Alharthi,halharthi@mubadala.ae,Mubadala,0507000890,1
+136,Ali jaber alkarbi,ali.alkarbi@adm.gov.ae,ADM,0502008209,1
+137,Iman,ialtamimi@mubadalahealth.ae,M42,0508364334,1
+138,Hend al nuaimi,halnuaimi@mubadala.ae,Mubadala,0502222191,1
+139,Anwar,aalammouri@sanad.ae,Sanad,0503489901,1
+140,Naser Almansoori,naserm@etihad.ae,Etihad Airways ,0508001992,1
+141,Fatema,fatima.mohamamad@adcb.com,ADCB,0506088001,1
+142,Jawahar Alyoha,ja4810@nyu.edu,New York University ,0502850600,1
+143,Eid,eid.almazrouei@wahacapital.com,Waha capital,0524210000,1
+144,Abdulaziz saleh alabdouli,aalabdouli@mubadala.ae,Mubadala,0506786666,1
+145,Shamma Al Sayed,shamma.alsayed@sorbonne.ae,Sorbonne University ,0561267491,1
+146,Amal alameri,aameri@mubadala.ae,Mubadala,0557007210,1
+147,Taryam,talkatheeri@dctabudhabi.ae,Dct,0559996846,1
+148,Nouf almukhaini,nmnalmukhaini@adeconomy.ae,Ded,0528008110,1
+149,Ahmed Waqqas ,adchess@gmail.com,ADCHESS,0543394459,1
+150,Omran,omranalhosani316@gmail.com,Ad chess,0565939829,1
+151,Mohamed alowaid,malowaid@adnoc.ae,Adnoc logistics and services,0528555522,1
+152,Mariam alremeithi,msoalremeithi@adeconomy.ae,DED,0562222480,1
+153,Mariam almuhairy,malmuhairy@moiat.gov.ae,MOIAT,0547999492,1
+154,Aisha alsgamsi ,aisha.a.alshamsi@aam.gov.ae,Alain municipality ,0509346662,1
+155,Basma alhebsi,basma.alhebsi@mcy.gov.ae,Ministry of cultural and youth ,0503927718,1
+156,Alshumoos,alshumoos.alhosani@maan.gov.ae,Ma’an ,0562798056,1
+157,Hessa Al Hameli,hessa.alhameli@maan.gov.ae,Maan,+971503304404,1
+158,Abdulla Al Jailani,aaljailani@adnoc.ae,ADNOC,0503105316,1
+159,Aisha AlShamsi,ansalshamsi@adio.gov.ae,Abu Dhabi Investment Office,0569388338,1
+160,Fatema alrabeea,f.alrabeea@adio.gov.ae,Abudhabi investment office ,0505397637,1
+161,Mahra,malkhoori@mubadala.com,Mubadala,0505555404,1
+162,Ghaith Al Mehairbi,galmehairbi@mubadala.ae,Mubadala,050 6668830,1
+163,Hind,hamin@strata.ae,Strata manufacturing,0509234034,1
+164,Abdulla alhameli,abdulla.alhameli@adia.ae,ADIA,0508516565,1
+165,Almaha Almansoori,almaha.almansoori@emiratessteel.com,Emirates Steel Arkan,0554420055,1
+166,Muneera ,muneeraalketbi@gmail.com,Mubadala investment company ,0502348888,1
+167,Zayed Alkatheeri,alkath2000@gmail.com,,0553255884,1
+168,Sultan alhosani,dragonov.suln@gmail.com,,0569200221,1
+169,Khalid alkhoori,khalid.alkhoori@wahacapital.ae,Waha capital,0506785444,1
+170,Jasem,jhusain@mubadalacapital.ae,Mubadala capital,0506343400,1
+171,Mohamed,malaudhli@mubadala.ae,Mubadala,0557000295,1
+172,Adam arif ,aarif@mubadalacapital.ae,Mubadala capital,0557000904,1
+173,Sara Ali,iamsaraali@icloud.com,,0504440066,1
+174,Emma Wood,iamemmawood@me.com,,0502206922,1
+175,Fatema Al Hammadi,fa1305@dctabudhabi.ae,DCT,0503328183,1
+176,Mouza Alblooshi,malblooshi@sanad.ae,Sanad,0509413330,1
+177,Maryam Alfalasi,moalfalasi@mubadala.ae,Mubadala,0557007110,1
+178,Moza AlRumaithi,moza.alremeithi@mubadalaenergy.com,Mubadala Energy ,0564707747,1
+179,Omair bin haider,ohaider@mubadala.ae,Mubadala,0557007645,1
+180,Ahmed alhammadi,aealhammadi@mubadala.ae,Mubadala investment company ,0557000880,1
+181,Mira Aldarmaki,mira.aldarmaki@mubadalaenergy.com,Mubadala energy,0527788117,1
+182,Sara almemari ,salmemari@strata.ae,Strata manufacturing ,0559008760,1
+183,Anoud,analmenhali@solutionsplus.ae,Solutions+,0557000897,1
+184,Ahmed Al Marzooqi,aalmarzooqi@adio.gov.ae,Abu Dhabi Investment Office,0501061221,1
+185,Mashael,maltamimi@mubadala.ae,Mubadala,0507111124,1
+186,Sultan,uae.uae86@g@ail.com,Mubadala,0502144488,1
+187,Jawaher,jkhamisalbadi@mubadala.ae,Mubadala,0508520999,1
+188,Ali alolama,aolama@sanad.ae,Sanad,0503423009,1
+189,Mohamed alzeyoudi,mohamed.alzeyoudi@pwc.com,Pwc,0509994916,1
+190,Mohammed Bassam,mohammed.ibrahim@ku.ac.ae,Khalifa University ,0503381185,1
+191,Abdalrahman Bin Kherbash,abd.alrahaman.kherbash@pwc.com,PwC,+971547934146,1
+192,Alia,alia.alnuaimi@itc.gov.ae,Itc,0507775017,1
+193,Ahmad almessabi,masabinho_8@hotmail.com,Ku,0504364826,1
+194,Ameera Almarzooqi,ameeramalm@gmail.com,AD Youth Council,0502275727,1
+195,Ahmed Alkendi,amjed.alkendi@ku.ac.ae,Khalifa University,0505212484,1
+196,Aaron Pinnock,apinnock@mubadala.ae,Mubadala,,1
+197,Khalid abushousha ,khalidmohamed.abushousha@emiratessteel.com,Emirates steel arkan,0508240092,1
+198,Khawla almheiri,kalmheiri@solutionspluse.ae,Solutions plus,0502332396,1
+199,Hamad hazza aldarmaki,hamad.aldarmaki@zho-gov.ae,Al ain club for people of determination ,0504493527,1
+200,Hareth Alhashmi,h.alhashmi01@gmail.com,NEP,0509918788,1
+201,Nada,nalharthi@mubadala.ae,Mubadala,0507210721,1
+202,Muneera,malhammadi@solutionsplus.ae,Solutionsplus,0508297774,1
+203,Abdullah ,abdalla20005@hotmail.com,Alain club for people of determination ,0555184030,1
+204,Mouza AlMheiri,mouza.almheiri@wahacapital.ae,Waha Capital,0526633354,1
+205,Ghalya Alali,ghalya.alali@hotmail.com,Abu Dhabi Youth Council,0553855885,1
+206,Hadeel alhosani,halhosani@solutionsplus.ae,Solutionsplus,0561070711,1
+207,Amna Almulla,amna.almulla@emiratessteel.com,Emirates Steel ,0562708000,1
+208,Muzna alrahbi,muzna.alrahbi@mubadalaenergy.com,Mubadala ENERGY,0544229201,1
+209,Noora albalooshi,noora.albalooshi@ead.gov.ae,EAD,0506644664,1
+210,Mariam alnahdi,mariamsaleh.alnahdi@emiratessteel.com,Emiratessteel ,0508380503,1
+211,Sara Al Mazrouei,sara.almazrouei@wahacapital.ae,Waha Capital,0566668200,1
+212,Shamsa alshamsi,shamsa.alshamsi@mubadalaenergy.com,Mubadala ENERGY,0566659960,1
+213,Sultana ,sultana.alzubaidi@emiratessteel.com,Emirates steel,0556611199,1
+214,Zainab AL ALI,zalali@masdar.ae,Masdar,,1
+215,Lydia Sanz Lozano,ls5565@nyu.edu,NYUAD,0551232579,1
+216,Mariam Aldarmaki,mariam.aldarmaki@adia.ae,ADIA,0559713331,1
+217,Hamda Al Qubaisi,hamdaalq@outlook.com,ADIA,0506228633,1
+218,Sara Alkhajeh,sara.alkhajeh@etihadrail.ae,Etihad rail,0509487870,1
+219,Omar Almutawa,omar.almutawa@pmo.gov.ae,Emirates Youth Council,0588911111,1
+220,Fatima Al Ahbabi,falahbabi@mubadala.ae,Mubadala,0559887777,1
+221,Brian,Lott,Mubadala,0566991613,1
+222,Imane Salem,imane@bidayamedia.com,Bidaya Media,0509111759,1
+223,Huda Alkatheeri,halkatheeri@strata.ae,Strata Manufacturing ,0521170701,1
+224,Maryam almarar,malmarar@mubadala.ae,Mubadala,0501222442,1
+225,Maitha ahli,m.ah313@outlook.com,Abu dhabi police youth council,0552669398,1
+226,Shaikha alnuaimi,shaikha.mubarak@dmt.gov.ae,Dmt,0566331333,1
+227,Ahmad Yousef Tahnon Al Ali,halali@moiat.gov.ae,MOIAT,0504888851,1
+228,Muneera al hubail,malhubail@adpolice.gov.ae,AD Police,0502646163,1
+229,Amani,aialblooshi,Aldar company,971567075505,1
+230,Beniamin Strzelecki,beniamin@nyu.edu,NYU,0501494641,1
+231,Wissal belkentaoui,wissal.belkentaoui@ae.ey.com,EY,0544903833,1
+232,Hamdan,hamdan.alameri@adia.ae,Adia,0506436003,1
+233,Rousa alserkal,rrr.alssr00@gmail.com,Adchess,0562939711,1
+234,Ousha Bayat Almansoori,obalmansoori@adnoc.ae,ADNOC,0504112005,1
+235,Fatmah alkaabi,fatmahalkaabi@adnoc.ae,ADNOC Drilling,0567534440,1
